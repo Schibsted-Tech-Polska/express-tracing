@@ -1,1 +1,1 @@
-module.exports = require('./lib/express-tracing');
+module.exports = require('./lib/tracing');
