@@ -6,7 +6,7 @@ deploy:
   provider: npm
   email: kwasniewski.mateusz@gmail.com
   api_key:
-    secure: Hrq6Te/CCiHIbnS3OoMdY5yCz22BBT/Rxyg+y3uKSIl4gNZen89SieBjZHV6P3zqitUI9Bof5pWCtIa+2W7WuR3H+Rac214M4CehvgAoo1VD1oms5lZ1Vqq/xotuf4QFg41d8Yo/Hn2aS+JHbpcdzgwEpeEKYqSswVIbnkdkGF0=
+    secure: DVm2AS3AO4MOGRTUUznkRNGYIjhYRQBWQYsFqRxFEix57kA1zSr5eHe01yl1zVFss0pCyd/hu4ZhsB2ZmH60PGEYCV1y3vXNPjvv7k6y4AHmBPQ4SICBg+IePwrYiowDXtodIF313kf9e9XX3Yo5DN61VWwFS3u7R2H0Cff9v2o=
   on:
     tags: true
     repo: Schibsted-Tech-Polska/express-tracing
