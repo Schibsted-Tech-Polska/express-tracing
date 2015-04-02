@@ -1,0 +1,26 @@
+{
+  "name": "express-tracing",
+  "version": "1.0.0",
+  "description": "Express middleware for request tracing with HTTP header",
+  "main": "tracing.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/*.js"
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "dependencies": {
+    "moment": "2.9.0"
+  },
+  "devDependencies": {
+    "mocha": "2.2.1"
+  },
+  "keywords": [
+    "microservices",
+    "http",
+    "correlation",
+    "tracing"
+  ],
+  "author": "",
+  "license": "ISC"
+}
